@@ -5,4 +5,4 @@ Git tracks change of files.
 My boss is handsome and rich.
 Creating a new branch is quick and simple.
 Git is good.
-Git is.
+Git is good.
