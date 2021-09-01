@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks change of files.
 My boss is handsome and rich.
 Creating a new branch is quick and simple.
+Git is good.
